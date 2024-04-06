@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nemesis42
 - 👀 I’m interested in Android development, Python, C#, Java
 - 🌱 I’m currently learning frida ( frida.re )
-- 😄 Pronouns: He
+- 😄 Pronouns: he/him
 
 <!---
 Nemesis42/Nemesis42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
