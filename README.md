@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nemesis42
 - 👀 I’m interested in Android development, Python, C#, Java
-- 🌱 I’m currently learning frida ( frida.re )
+- 🌱 I’m currently learning C++
 - 😄 Pronouns: he/him
 
 <!---
